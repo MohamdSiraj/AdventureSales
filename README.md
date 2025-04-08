@@ -1,4 +1,8 @@
 # Adventure Sales Dashboard Project Using Power BI
+![p1](https://github.com/user-attachments/assets/48936524-bbd9-433e-9c6a-77c6c0ab366f)
+![mobile](https://github.com/user-attachments/assets/ef911304-59c8-433d-8836-7eda53541cbd)
+![p2](https://github.com/user-attachments/assets/b251ba04-4c18-4f4a-b461-9517ecadb573)
+![p3](https://github.com/user-attachments/assets/84476e52-507a-41ec-b0d9-575ec68f9afa)
 
 ## Dataset Overview and Problem Statement
 
@@ -41,4 +45,3 @@ Through this project, I was able to:
 * **Monitor Sales Team Performance:** I provided insights into the performance of sales employees compared to their set targets, enabling better decisions regarding incentives and training.
 * **Develop an Integrated Business Intelligence System:** I created a comprehensive business intelligence solution using `Power BI` that supports data-driven decision making at all levels of the organization.
 
-This final project for the "Power Tools For Visualization" course from Macquarie University demonstrates my ability to apply theoretical concepts in a practical context, and transform raw data into actionable business insights using `Power BI`, focusing on solving real business problems and providing innovative solutions to improve the decision-making process.
